@@ -18,10 +18,9 @@ F8::forward()
 ; F9::volumedown()
 ; F10::volumeup()
 
-F9::Send, Vladimir: 
-F10::Send, Vitaliy: 
-F11::Send, Alexey: 
-F12::Send, Mourice: 
+F9::Send, Alex:{Space}
+F10::Send, Vasiliy:{Space}
+F11::Send, Dmitry:{Space}
 
 ;F12::debugall()
 
